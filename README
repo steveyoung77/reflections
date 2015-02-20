@@ -1,0 +1,12 @@
+README file for Lesson 3.5 How to use Git and GitHub from udacity.
+This was entered locally onto wd /test/README
+then I did a:
+
+$git checkout master
+$git add README
+$git commit
+
+to make a new local commit. Then I did a:
+
+git push origin master  // git push <named remote> <local branch>
+
